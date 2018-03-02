@@ -1,5 +1,5 @@
 # Hello_World
-My first GitHub repository
+_My first GitHub repository_
 
 Checking how the commit and pull request functions of GitHub works
 
